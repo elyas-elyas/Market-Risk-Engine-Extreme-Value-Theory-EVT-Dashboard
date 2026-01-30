@@ -1,4 +1,3 @@
-```markdown
 # Market Risk Engine & Extreme Value Theory (EVT) Dashboard
 
 A professional-grade **Risk Management System** built in **R** and **Shiny**. This project implements a hybrid **GARCH-EVT** model to estimate market risk, specifically designed to capture "Fat Tails" and extreme market events (Black Swans) that standard Normal distribution models fail to predict.
@@ -152,4 +151,3 @@ runApp("app.R")
 * **Quantitative Risk Management**: *Concepts, Techniques and Tools* - McNeil, Frey, & Embrechts.
 * **Extreme Value Theory in Finance**: *An Introduction* - Paul Embrechts.
 * **R Documentation**: [rugarch package](https://cran.r-project.org/web/packages/rugarch/index.html)
-```
